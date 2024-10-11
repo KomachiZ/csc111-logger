@@ -1,1 +1,1 @@
-# csc111-logger
+This is an extension for installing the template code required for the NCSU CSC111 course.
